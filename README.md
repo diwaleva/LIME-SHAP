@@ -16,3 +16,9 @@ Through this code, we will explore two of the popularly used external tools to a
 LIME (Local Interpretable Model-Agnostic Explanations)
 SHAP (SHapely Additive exPlanations)
 
+Please feel free to visit my blog where I have discussed the ML and AI Explainability and Interpretability.
+
+https://medium.com/@diwale.varsha/ml-and-ai-model-explainability-and-interpretability-5b04935aac19
+
+Thank you!
+
